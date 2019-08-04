@@ -1,1 +1,11 @@
 .ipynb_checkpoints
+
+/Cat_Dog_data
+
+# /intro-to-pytorch/Cat_Dog_data/*.jpg
+# intro-to-pytorch/Cat_Dog_data/*.jpg
+
+# /intro-to-pytorch/Cat_Dog_data/train/dog/dog.9999.jpg
+# intro-to-pytorch/Cat_Dog_data/test/cat/cat.10009.jpg
+intro-to-pytorch/Cat_Dog_data/**
+
